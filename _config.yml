@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'Роман Ашиков'
-description: 'Я очень быстро делаю корейский салат из моркови'
+description: 'Я очень быстро делаю корейский салат из моркови и, иногда, программирую'
 
 # Images
 avatar: 'avatar.jpg'
@@ -13,15 +13,15 @@ favicon: 'favicon.ico'
 # Online profiles
 #dribbble: 'mydribbble'
 # facebook: 'myfacebook'
-# twitter: 'mytwitter'
-#linkedin: 'mylinkedin'
+twitter: 'lastnorf'
+linkedin: 'ashikovroman'
 instagram: 'lastnorf'
 #pinterest: 'mypinterest'
 # youtube: 'myyoutube'
 github-user: 'ashikov'
-#gitlab-user: ''
+gitlab-user: 'ashikov'
 #codepen: ''
-#steam: ''
+steam: 'lastnorf'
 #soundcloud: ''
 #lastfm: ''
 #stack-overflow: ''
