@@ -32,11 +32,11 @@ steam: 'lastnorf'
 # weibo: 'myweibo'
 # vk: 'ashikov'
 # blog_url: 'myblog.blog.com'
-# email: 'hello@example.com'
+email: 'pickle@ashikov.ru'
 # messenger: 'myfbchat'
 telegram: 'lastnorf'
 
-social-links-order: [github-user, gitlab-user, twitter, instagram, linkedin, telegram, steam]
+social-links-order: [github-user, gitlab-user, linkedin, telegram, email, twitter, instagram,  steam]
 
 # Yaml manifest of supported social links
 # Requirements:
