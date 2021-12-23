@@ -13,9 +13,9 @@ favicon: 'favicon.ico'
 # Online profiles
 #dribbble: 'mydribbble'
 # facebook: 'myfacebook'
-twitter: 'lastnorf'
+twitter: 'it_heisenberg'
 linkedin: 'ashikovroman'
-instagram: 'lastnorf'
+instagram: 'the_same_heisenberg'
 #pinterest: 'mypinterest'
 # youtube: 'myyoutube'
 github-user: 'ashikov'
@@ -34,7 +34,7 @@ steam: 'lastnorf'
 # blog_url: 'myblog.blog.com'
 email: 'pickle@ashikov.ru'
 # messenger: 'myfbchat'
-telegram: 'lastnorf'
+telegram: 'it_heisenberg'
 
 social-links-order: [github-user, gitlab-user, linkedin, telegram, email, twitter, instagram,  steam]
 
