@@ -91,7 +91,7 @@ social-links:
     icon-class: fab fa-2x fa-github
 
   - name: gitlab-user
-    url-pattern: gitlab.com/__USERNAME__
+    url-pattern: gitlab.hexlet.io/__USERNAME__
     icon-class: fab fa-2x fa-gitlab
 
   - name: codepen
