@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'Роман Ашиков'
-description: 'Я очень быстро делаю корейский салат из моркови и, иногда, программирую'
+description: 'С самого начала у меня была какая-то тактика и я её придерживался'
 
 # Images
 avatar: 'avatar.jpg'
@@ -19,7 +19,7 @@ instagram: 'the_same_heisenberg'
 #pinterest: 'mypinterest'
 # youtube: 'myyoutube'
 github-user: 'ashikov'
-gitlab-user: 'ashikov'
+# gitlab-user: 'ashikov'
 #codepen: ''
 steam: 'lastnorf'
 #soundcloud: ''
@@ -36,7 +36,7 @@ email: 'pickle@ashikov.ru'
 # messenger: 'myfbchat'
 telegram: 'it_heisenberg'
 
-social-links-order: [github-user, gitlab-user, linkedin, telegram, email, twitter, instagram,  steam]
+social-links-order: [github-user, linkedin, telegram, email, twitter, instagram,  steam]
 
 # Yaml manifest of supported social links
 # Requirements:
